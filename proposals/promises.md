@@ -49,3 +49,5 @@ Use an asynchronous flow control abstraction like promises or perhaps [caolan/as
 There is a lot of momentum for moving over to promises. If we use
 promises, [Q](https://github.com/kriskowal/q) has a wonderful api for
 flow control.
+
+(DOM) Promises have landed in Firefox (with GC support if you forget to add catch) and the ES6 Promises likely will make their way into the JS engine soon... One potential snafu is that these facilities may not be available in workers right now.
