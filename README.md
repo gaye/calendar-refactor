@@ -5,7 +5,7 @@ Documentation about goals and deliverables for 2.0 calendar refactor
 
 ### Existing proposals
 
-+ Interop Tests
++ ~~Interop Tests~~
 + Logging 2.0
 + Module Loader 2.0
 + Promises
