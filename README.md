@@ -8,7 +8,7 @@ Documentation about goals and deliverables for 2.0 calendar refactor
 + ~~Interop Tests~~
 + Logging 2.0
 + Module Loader 2.0
-+ Promises
++ ~~Promises~~
 + Reactive Views
 + Worker 2.0
 
